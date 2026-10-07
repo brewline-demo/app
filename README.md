@@ -3,3 +3,4 @@
 - Low-stock alerts
 - Canadian tax fix
 - Reorder button fix
+- Faster checkout
