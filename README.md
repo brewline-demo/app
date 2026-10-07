@@ -2,3 +2,4 @@
 - CSV export
 - Low-stock alerts
 - Canadian tax fix
+- Reorder button fix
