@@ -1,2 +1,3 @@
 - Cups-per-location chart# app
 - CSV export
+- Low-stock alerts
